@@ -1,0 +1,10 @@
+name: Mineti
+version: ${project.version}
+main: net.minecraft5333.je.plugins.mineti
+description: Mineti Plugin for Mineraft5333.net
+website: https://www.minecraft5333.net
+commands:
+  minetivs:
+  moin:
+  ping:
+  tschüss:

@@ -1,0 +1,10 @@
+name: Mineti
+version: 1.0-SNAPSHOT
+main: net.minecraft5333.je.plugins.mineti
+description: Mineti Plugin for Mineraft5333.net
+website: https://www.minecraft5333.net
+commands:
+  mineti version:
+  moin:
+  ping:
+  tschüss:
